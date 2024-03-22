@@ -5,6 +5,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//https://youtu.be/uXBnyYuwPe8
+
 namespace D_A
 {
     internal class DArray<T> //: IEnumerable<T>
